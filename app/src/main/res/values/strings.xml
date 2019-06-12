@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">DailyDo</string>
+    <string name="daily_do">Daily Do</string>
+    <string name="signup">signup</string>
+    <string name="login">login</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="not_registered">not registered? </string>
+    <string name="register">register</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="send_password">Send Password</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_email_address">Enter your Email Address</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="confirm_email_address">Confirm Email Address</string>
+    <string name="confirm_your_password">Confirm your password</string>
+    <string name="enter_your_father_name">Enter your Father Name</string>
+    <string name="enter_your_occupation">Enter your occupation</string>
+    <string name="gender">Gender : </string>
+    <string name="male">Male</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
